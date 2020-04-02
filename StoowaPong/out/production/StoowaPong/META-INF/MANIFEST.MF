@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: fr.shinco.stoowapong.StoowaPong
+Game-Class: fr.shinco.stoowapong.StoowaPong
+
